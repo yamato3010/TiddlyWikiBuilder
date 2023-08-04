@@ -21,8 +21,7 @@
 
 ### TW5-sitemapの用意・設定
 
-dullroar氏作成の[TW5-sitemap](https://github.com/dullroar/TW5-sitemap)をダウンロードし，`sitemap`ディレクトリを`build.sh`，`init.sh`がと同じディレクトリにコピーする。  
-サイトマップの設定は，[TW5-sitemap](https://github.com/dullroar/TW5-sitemap)のREADMEを確認していただきたい。
+dullroar氏作成の[TW5-sitemap](https://github.com/dullroar/TW5-sitemap)をダウンロードし，`sitemap`ディレクトリを`build.sh`，`init.sh`がと同じディレクトリにコピーする。サイトマップの設定は，[TW5-sitemap](https://github.com/dullroar/TW5-sitemap)のREADMEを確認していただきたい。
 
 ### tiddlywikiを初期化
 
